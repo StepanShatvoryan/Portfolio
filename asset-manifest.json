@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6869075b.css",
-    "main.js": "/Portfolio/static/js/main.ed467808.js",
+    "main.css": "/Portfolio/static/css/main.ed68eb7a.css",
+    "main.js": "/Portfolio/static/js/main.a44cd4d4.js",
     "static/media/ranking1.jpg": "/Portfolio/static/media/ranking1.493a709f8649a35e470f.jpg",
     "static/media/sss.jpg": "/Portfolio/static/media/sss.2e99eaad75625d0e219b.jpg",
     "static/media/bnr-1.png": "/Portfolio/static/media/bnr-1.c727d075e92ad38a1903.png",
@@ -11,11 +11,11 @@
     "static/media/Kak-dobavit-Git-Remote.png": "/Portfolio/static/media/Kak-dobavit-Git-Remote.fc3f284a54b41ce3a0e9.png",
     "static/media/nodejs-overview.png": "/Portfolio/static/media/nodejs-overview.8512e685c2115b6c4bdf.png",
     "index.html": "/Portfolio/index.html",
-    "main.6869075b.css.map": "/Portfolio/static/css/main.6869075b.css.map",
-    "main.ed467808.js.map": "/Portfolio/static/js/main.ed467808.js.map"
+    "main.ed68eb7a.css.map": "/Portfolio/static/css/main.ed68eb7a.css.map",
+    "main.a44cd4d4.js.map": "/Portfolio/static/js/main.a44cd4d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.6869075b.css",
-    "static/js/main.ed467808.js"
+    "static/css/main.ed68eb7a.css",
+    "static/js/main.a44cd4d4.js"
   ]
 }
